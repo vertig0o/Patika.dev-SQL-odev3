@@ -1,4 +1,4 @@
-# Patika.dev-SQL-odev4
+# Patika.dev-SQL-odev3
 Merhabalar,
 
 Aşağıdaki sorgu senaryolarını dvdrental örnek veri tabanı üzerinden gerçekleştiriniz.
